@@ -1,6 +1,6 @@
 # Laravel-Gentelella
 
-Laravel PHP framework integreded with Gentelella bootstrap template.
+Laravel PHP framework integrated with Gentelella bootstrap template.
 
 <br>
 
