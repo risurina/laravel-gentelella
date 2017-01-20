@@ -17,4 +17,5 @@ Laravel PHP framework integreded with Gentelella bootstrap template.
 
 ### Credits
 Laravel - PHP Framework developed and maintained by Taylor Otwell
+<br>
 Gentelella - Admin template developed and maintained by Colorlib
