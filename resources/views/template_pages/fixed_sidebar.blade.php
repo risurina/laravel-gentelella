@@ -17,5 +17,5 @@
 
 @section('content_script')
 <!-- jQuery custom content scroller -->
-<script src="{{ URL::to('js/jquery.mCustomScrollbar.concat.min.js') }}"></script>
+<script src="{{ URL::to('assets/js/jquery.mCustomScrollbar.concat.min.js') }}"></script>
 @endsection

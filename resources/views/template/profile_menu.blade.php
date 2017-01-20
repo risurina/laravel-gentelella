@@ -1,7 +1,7 @@
 <!-- menu profile quick info -->
 <div class="profile clearfix">
   <div class="profile_pic">
-    <img src="{{ URL::to('img/img.jpg') }}" alt="..." class="img-circle profile_img">
+    <img src="{{ URL::to('assets/img/img.jpg') }}" alt="..." class="img-circle profile_img">
   </div>
   <div class="profile_info">
     <span>Welcome,</span>

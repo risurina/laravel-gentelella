@@ -64,5 +64,5 @@
 
 @section('content_script')
 <!-- Dropzone.js -->
-<script src="{{ URL::to('js/dropzone.min.js') }}"></script>
+<script src="{{ URL::to('assets/js/dropzone.min.js') }}"></script>
 @endsection

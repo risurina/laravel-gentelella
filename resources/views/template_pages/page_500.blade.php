@@ -10,14 +10,14 @@
     <title>Gentellela Alela! | </title>
 
     <!-- Bootstrap -->
-    <link href="{{ URL::to('css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ URL::to('assets/css/bootstrap.min.css') }}" rel="stylesheet">
     <!-- Font Awesome -->
-    <link href="{{ URL::to('css/font-awesome.min.css') }}" rel="stylesheet">
+    <link href="{{ URL::to('assets/css/font-awesome.min.css') }}" rel="stylesheet">
     <!-- NProgress -->
-    <link href="{{ URL::to('css/nprogress.css') }}" rel="stylesheet">
+    <link href="{{ URL::to('assets/css/nprogress.css') }}" rel="stylesheet">
 
     <!-- Custom Theme Style -->
-    <link href="{{ URL::to('css/custom.min.css') }}" rel="stylesheet">
+    <link href="{{ URL::to('assets/css/custom.min.css') }}" rel="stylesheet">
   </head>
 
   <body class="nav-md">
@@ -52,15 +52,15 @@
     </div>
 
     <!-- jQuery -->
-    <script src="{{ URL::to('js/jquery.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.min.js') }}"></script>
     <!-- Bootstrap -->
-    <script src="{{ URL::to('js/bootstrap.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/bootstrap.min.js') }}"></script>
     <!-- FastClick -->
-    <script src="{{ URL::to('js/fastclick.js') }}"></script>
+    <script src="{{ URL::to('assets/js/fastclick.js') }}"></script>
     <!-- NProgress -->
-    <script src="{{ URL::to('js/nprogress.js') }}"></script>
+    <script src="{{ URL::to('assets/js/nprogress.js') }}"></script>
 
     <!-- Custom Theme Scripts -->
-    <script src="{{ URL::to('js/custom.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/custom.min.js') }}"></script>
   </body>
 </html>

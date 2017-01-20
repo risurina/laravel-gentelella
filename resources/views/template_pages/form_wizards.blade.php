@@ -315,7 +315,7 @@
 
 @section('content_script')
 <!-- jQuery Smart Wizard -->
-<script src="{{ URL::to('js/jquery.smartWizard.js') }}"></script>
+<script src="{{ URL::to('assets/js/jquery.smartWizard.js') }}"></script>
 
     <!-- jQuery Smart Wizard -->
     <script>

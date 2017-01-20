@@ -1041,30 +1041,30 @@
 
 @section('content_script')
     <!-- bootstrap-progressbar -->
-    <script src="{{ URL::to('js/bootstrap-progressbar.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/bootstrap-progressbar.min.js') }}"></script>
     <!-- iCheck -->
-    <script src="{{ URL::to('js/icheck.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/icheck.min.js') }}"></script>
     <!-- bootstrap-daterangepicker -->
-    <script src="{{ URL::to('js/moment.min.js') }}"></script>
-    <script src="{{ URL::to('js/daterangepicker.js') }}"></script>
+    <script src="{{ URL::to('assets/js/moment.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/daterangepicker.js') }}"></script>
     <!-- bootstrap-wysiwyg -->
-    <script src="{{ URL::to('js/bootstrap-wysiwyg.min.js') }}"></script>
-    <script src="{{ URL::to('js/jquery.hotkeys.js') }}"></script>
-    <script src="{{ URL::to('js/prettify.js') }}"></script>
+    <script src="{{ URL::to('assets/js/bootstrap-wysiwyg.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.hotkeys.js') }}"></script>
+    <script src="{{ URL::to('assets/js/prettify.js') }}"></script>
     <!-- jQuery Tags Input -->
-    <script src="{{ URL::to('js/jquery.tagsinput.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.tagsinput.js') }}"></script>
     <!-- Switchery -->
-    <script src="{{ URL::to('js/switchery.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/switchery.min.js') }}"></script>
     <!-- Select2 -->
-    <script src="{{ URL::to('js/select2.full.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/select2.full.min.js') }}"></script>
     <!-- Parsley -->
-    <script src="{{ URL::to('js/parsley.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/parsley.min.js') }}"></script>
     <!-- Autosize -->
-    <script src="{{ URL::to('js/autosize.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/autosize.min.js') }}"></script>
     <!-- jQuery autocomplete -->
-    <script src="{{ URL::to('js/jquery.autocomplete.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.autocomplete.min.js') }}"></script>
     <!-- starrr -->
-    <script src="{{ URL::to('js/starrr.js') }}"></script>
+    <script src="{{ URL::to('assets/js/starrr.js') }}"></script>
 
     <!-- bootstrap-daterangepicker -->
     <script>

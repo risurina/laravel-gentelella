@@ -618,13 +618,13 @@
 
 @section('content_script')
     <!-- Chart.js -->
-    <script src="{{ URL::to('js/Chart.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/Chart.min.js') }}"></script>
     <!-- jQuery Sparklines -->
-    <script src="{{ URL::to('js/jquery.sparkline.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.sparkline.min.js') }}"></script>
     <!-- easy-pie-chart -->
-    <script src="{{ URL::to('js/jquery.easypiechart.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.easypiechart.min.js') }}"></script>
     <!-- bootstrap-progressbar -->
-    <script src="{{ URL::to('js/bootstrap-progressbar.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/bootstrap-progressbar.min.js') }}"></script>
 
     <script>
       $(function() {

@@ -1324,23 +1324,23 @@
 
 @section('content_script')
     <!-- iCheck -->
-    <script src="{{ URL::to('js/icheck.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/icheck.min.js') }}"></script>
     <!-- Datatables -->
-    <script src="{{ URL::to('js/jquery.dataTables.min.js') }}"></script>
-    <script src="{{ URL::to('js/dataTables.bootstrap.min.js') }}"></script>
-    <script src="{{ URL::to('js/dataTables.buttons.min.js') }}"></script>
-    <script src="{{ URL::to('js/buttons.bootstrap.min.js') }}"></script>
-    <script src="{{ URL::to('js/buttons.flash.min.js') }}"></script>
-    <script src="{{ URL::to('js/buttons.html5.min.js') }}"></script>
-    <script src="{{ URL::to('js/buttons.print.min.js') }}"></script>
-    <script src="{{ URL::to('js/dataTables.fixedHeader.min.js') }}"></script>
-    <script src="{{ URL::to('js/dataTables.keyTable.min.js') }}"></script>
-    <script src="{{ URL::to('js/dataTables.responsive.min.js') }}"></script>
-    <script src="{{ URL::to('js/responsive.bootstrap.js') }}"></script>
-    <script src="{{ URL::to('js/datatables.scroller.min.js') }}"></script>
-    <script src="{{ URL::to('js/jszip.min.js') }}"></script>
-    <script src="{{ URL::to('js/pdfmake.min.js') }}"></script>
-    <script src="{{ URL::to('js/vfs_fonts.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.dataTables.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/dataTables.bootstrap.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/dataTables.buttons.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/buttons.bootstrap.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/buttons.flash.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/buttons.html5.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/buttons.print.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/dataTables.fixedHeader.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/dataTables.keyTable.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/dataTables.responsive.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/responsive.bootstrap.js') }}"></script>
+    <script src="{{ URL::to('assets/js/datatables.scroller.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jszip.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/pdfmake.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/vfs_fonts.js') }}"></script>
 
     <!-- Datatables -->
     <script>

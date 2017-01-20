@@ -1357,13 +1357,13 @@
     </div>
 
   <!-- bootstrap-progressbar -->
-    <script src="{{ URL::to('js/bootstrap-progressbar.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/bootstrap-progressbar.min.js') }}"></script>
     <!-- iCheck -->
-    <script src="{{ URL::to('js/icheck.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/icheck.min.js') }}"></script>
     <!-- PNotify -->
-    <script src="{{ URL::to('js/pnotify.js') }}"></script>
-    <script src="{{ URL::to('js/pnotify.buttons.js') }}"></script>
-    <script src="{{ URL::to('js/pnotify.nonblock.js') }}"></script>
+    <script src="{{ URL::to('assets/js/pnotify.js') }}"></script>
+    <script src="{{ URL::to('assets/js/pnotify.buttons.js') }}"></script>
+    <script src="{{ URL::to('assets/js/pnotify.nonblock.js') }}"></script>
 
     <!-- PNotify -->
     <script>

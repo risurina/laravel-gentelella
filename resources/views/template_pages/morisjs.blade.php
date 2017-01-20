@@ -210,8 +210,8 @@
 
 
     <!-- morris.js -->
-    <script src="{{ URL::to('js/raphael.min.js') }}"></script>
-    <script src="{{ URL::to('js/morris.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/raphael.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/morris.min.js') }}"></script>
 
     <!-- morris.js -->
     <script>

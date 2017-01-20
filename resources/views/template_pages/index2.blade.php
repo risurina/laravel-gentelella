@@ -465,25 +465,25 @@
 @section('content_script')
 
     <!-- Chart.js -->
-    <script src="{{ URL::to('js/Chart.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/Chart.min.js') }}"></script>
 
     <!-- jQuery Sparklines -->
-    <script src="{{ URL::to('js/jquery.sparkline.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.sparkline.min.js') }}"></script>
     <!-- Flot -->
-    <script src="{{ URL::to('js/jquery.flot.js') }}"></script>
-    <script src="{{ URL::to('js/jquery.flot.pie.js') }}"></script>
-    <script src="{{ URL::to('js/jquery.flot.time.js') }}"></script>
-    <script src="{{ URL::to('js/jquery.flot.stack.js') }}"></script>
-    <script src="{{ URL::to('js/jquery.flot.resize.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.flot.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.flot.pie.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.flot.time.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.flot.stack.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.flot.resize.js') }}"></script>
     <!-- Flot plugins -->
-    <script src="{{ URL::to('js/jquery.flot.orderBars.js') }}"></script>
-    <script src="{{ URL::to('js/jquery.flot.spline.min.js') }}"></script>
-    <script src="{{ URL::to('js/curvedLines.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.flot.orderBars.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.flot.spline.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/curvedLines.js') }}"></script>
     <!-- DateJS -->
-    <script src="{{ URL::to('js/date.js') }}"></script>
+    <script src="{{ URL::to('assets/js/date.js') }}"></script>
     <!-- bootstrap-daterangepicker -->
-    <script src="{{ URL::to('js/moment.min.js') }}"></script>
-    <script src="{{ URL::to('js/daterangepicker.js') }}"></script>
+    <script src="{{ URL::to('assets/js/moment.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/daterangepicker.js') }}"></script>
 
     <!-- Flot -->
     <script>

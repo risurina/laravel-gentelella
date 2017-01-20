@@ -196,7 +196,7 @@
 
 @section('content_script')
 <!-- Chart.js -->
-<script src="{{ URL::to('js/Chart.min.js') }}"></script>
+<script src="{{ URL::to('assets/js/Chart.min.js') }}"></script>
 
     <!-- Chart.js -->
     <script>

@@ -1604,18 +1604,18 @@
 
 @section('content_script')
 <!-- bootstrap-daterangepicker -->
-<script src="{{ URL::to('js/moment.min.js') }}"></script>
-<script src="{{ URL::to('js/daterangepicker.js') }}"></script>
+<script src="{{ URL::to('assets/js/moment.min.js') }}"></script>
+<script src="{{ URL::to('assets/js/daterangepicker.js') }}"></script>
 <!-- Ion.RangeSlider -->
-<script src="{{ URL::to('js/ion.rangeSlider.min.js') }}"></script>
+<script src="{{ URL::to('assets/js/ion.rangeSlider.min.js') }}"></script>
 <!-- Bootstrap Colorpicker -->
-<script src="{{ URL::to('js/bootstrap-colorpicker.min.js') }}"></script>
+<script src="{{ URL::to('assets/js/bootstrap-colorpicker.min.js') }}"></script>
 <!-- jquery.inputmask -->
-<script src="{{ URL::to('js/jquery.inputmask.bundle.min.js') }}"></script>
+<script src="{{ URL::to('assets/js/jquery.inputmask.bundle.min.js') }}"></script>
 <!-- jQuery Knob -->
-<script src="{{ URL::to('js/jquery.knob.min.js') }}"></script>
+<script src="{{ URL::to('assets/js/jquery.knob.min.js') }}"></script>
 <!-- Cropper -->
-<script src="{{ URL::to('js/cropper.min.js') }}"></script>
+<script src="{{ URL::to('assets/js/cropper.min.js') }}"></script>
 
     <!-- bootstrap-daterangepicker -->
     <script>

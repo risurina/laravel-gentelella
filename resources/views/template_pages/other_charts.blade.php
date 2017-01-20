@@ -165,14 +165,14 @@
 
 
     <!-- jQuery Sparklines -->
-    <script src="{{ URL::to('js/jquery.sparkline.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.sparkline.min.js') }}"></script>
     <!-- JQVMap -->
-    <script src="{{ URL::to('js/jquery.vmap.js') }}"></script>
-    <script src="{{ URL::to('js/jquery.vmap.world.js') }}"></script>
-    <script src="{{ URL::to('js/jquery.vmap.usa.js') }}"></script>
-    <script src="{{ URL::to('js/jquery.vmap.sampledata.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.vmap.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.vmap.world.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.vmap.usa.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.vmap.sampledata.js') }}"></script>
     <!-- easy-pie-chart -->
-    <script src="{{ URL::to('js/jquery.easypiechart.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.easypiechart.min.js') }}"></script>
 
     <!-- JQVMap -->
     <script>

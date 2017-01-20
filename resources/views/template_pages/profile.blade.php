@@ -285,13 +285,13 @@
 
 @section('content_script')
     <!-- morris.js -->
-    <script src="{{ URL::to('js/raphael.min.js') }}"></script>
-    <script src="{{ URL::to('js/morris.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/raphael.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/morris.min.js') }}"></script>
     <!-- bootstrap-progressbar -->
-    <script src="{{ URL::to('js/bootstrap-progressbar.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/bootstrap-progressbar.min.js') }}"></script>
     <!-- bootstrap-daterangepicker -->
-    <script src="{{ URL::to('js/moment.min.js') }}"></script>
-    <script src="{{ URL::to('js/daterangepicker.js') }}"></script>
+    <script src="{{ URL::to('assets/js/moment.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/daterangepicker.js') }}"></script>
 
     <script>
       $(function() {

@@ -140,7 +140,7 @@
 
 @section('content_script')
 <!-- validator -->
-<script src="{{ URL::to('js/validator.js') }}"></script>
+<script src="{{ URL::to('assets/js/validator.js') }}"></script>
 
     <!-- validator -->
     <script>

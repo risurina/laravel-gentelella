@@ -135,8 +135,8 @@
     <!-- /calendar modal -->
 
     <!-- FullCalendar -->
-    <script src="{{ URL::to('js/moment.min.js') }}"></script>
-    <script src="{{ URL::to('js/fullcalendar.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/moment.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/fullcalendar.min.js') }}"></script>
 
     <!-- FullCalendar -->
     <script>

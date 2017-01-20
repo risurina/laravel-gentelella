@@ -351,9 +351,9 @@
     <!-- /compose -->
 
     <!-- bootstrap-wysiwyg -->
-    <script src="{{ URL::to('js/bootstrap-wysiwyg.min.js') }}"></script>
-    <script src="{{ URL::to('js/jquery.hotkeys.js') }}"></script>
-    <script src="{{ URL::to('js/prettify.js') }}"></script>
+    <script src="{{ URL::to('assets/js/bootstrap-wysiwyg.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/jquery.hotkeys.js') }}"></script>
+    <script src="{{ URL::to('assets/js/prettify.js') }}"></script>
 
     <!-- bootstrap-wysiwyg -->
     <script>

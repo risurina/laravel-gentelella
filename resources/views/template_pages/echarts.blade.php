@@ -383,8 +383,8 @@
 @section('content_script')
 
 <!-- ECharts -->
-<script src="{{ URL::to('js/echarts.min.js') }}"></script>
-<script src="{{ URL::to('js/world.js') }}"></script>
+<script src="{{ URL::to('assets/js/echarts.min.js') }}"></script>
+<script src="{{ URL::to('assets/js/world.js') }}"></script>
 
     <script>
       var theme = {

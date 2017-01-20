@@ -399,5 +399,5 @@
 
 @section('content_script')
     <!-- bootstrap-progressbar -->
-    <script src="{{ URL::to('js/bootstrap-progressbar.min.js') }}"></script>
+    <script src="{{ URL::to('assets/js/bootstrap-progressbar.min.js') }}"></script>
 @endsection

@@ -10,16 +10,16 @@
     <title>Gentellela Alela! | </title>
 
     <!-- Bootstrap -->
-    <link href="{{ URL::to('css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ URL::to('assets/css/bootstrap.min.css') }}" rel="stylesheet">
     <!-- Font Awesome -->
-    <link href="{{ URL::to('css/font-awesome.min.css') }}" rel="stylesheet">
+    <link href="{{ URL::to('assets/css/font-awesome.min.css') }}" rel="stylesheet">
     <!-- NProgress -->
-    <link href="{{ URL::to('css/nprogress.css') }}" rel="stylesheet">
+    <link href="{{ URL::to('assets/css/nprogress.css') }}" rel="stylesheet">
     <!-- Animate.css -->
     <link href="https://colorlib.com/polygon/gentelella/css/animate.min.css" rel="stylesheet">
 
     <!-- Custom Theme Style -->
-    <link href="{{ URL::to('css/custom.min.css') }}" rel="stylesheet">
+    <link href="{{ URL::to('assets/css/custom.min.css') }}" rel="stylesheet">
   </head>
 
   <body class="login">
